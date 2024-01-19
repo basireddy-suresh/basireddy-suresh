@@ -1,3 +1,4 @@
+<div align="center"><img src="https://raw.githubusercontent.com/basireddy-suresh/basireddy-suresh/main/banner.jpg"></div>
 # 💫 About Me:
 Hello, I am Basireddy Suresh Kumar Reddy! <br>🔭 I’m currently working on a Multi-Disease detection system using X-ray images and Deep Learning <br>Techniques<br>👯 I’m looking to collaborate on projects related to Machine Learning.<br>🤝 I’m looking for help with Machine Learning challenges. If you have expertise in Machine Learning, I'd love to learn from your experience.<br>🌱 I’m currently pursuing my final year B.Tech in Computer Science and Engineering(Data Science) at RGMCET.<br>💬 Ask me about Machine Learning.<br>⚡ Fun fact: I once organized a hackathon where participants coded solutions to problems while riding on a roller coaster.
 
