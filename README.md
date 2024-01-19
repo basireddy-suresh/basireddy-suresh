@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basireddy Suresh Kumar Reddy!;" />
-</h1>
-
 # 💫 About Me:
 Hello, I am Basireddy Suresh Kumar Reddy! <br>🔭 I’m currently working on a Multi-Disease detection system using X-ray images and Deep Learning <br>Techniques<br>👯 I’m looking to collaborate on projects related to Machine Learning.<br>🤝 I’m looking for help with Machine Learning challenges. If you have expertise in Machine Learning, I'd love to learn from your experience.<br>🌱 I’m currently pursuing my final year B.Tech in Computer Science and Engineering(Data Science) at RGMCET.<br>💬 Ask me about Machine Learning.<br>⚡ Fun fact: I once organized a hackathon where participants coded solutions to problems while riding on a roller coaster.
 
